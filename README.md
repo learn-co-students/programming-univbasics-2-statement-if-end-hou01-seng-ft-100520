@@ -3,7 +3,7 @@
 ## Learning Goals
 
 * Write an `if...end` statement
-* Write an `if...else...end` Statement
+ !* Write an `if...else...end` Statement
 * Write an `if...elsif...else...end` Statement
 * Use statement modifiers to change default sequence
 
